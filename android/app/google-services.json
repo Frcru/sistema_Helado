@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588790003051",
+    "project_id": "heladeria-75460",
+    "storage_bucket": "heladeria-75460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588790003051:android:eb4636cfe8a92243e6882e",
+        "android_client_info": {
+          "package_name": "com.heladeria_syst.system_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588790003051-g9fv07c7d2ojnq16jprfauh1va2hnido.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp2ssbEklIuVXZHuZo7MtwmI8lPz3lGZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588790003051-g9fv07c7d2ojnq16jprfauh1va2hnido.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
